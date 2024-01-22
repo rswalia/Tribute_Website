@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Great+Vibes&display=swap');
+
+#title {
+    /* font-family: 'Great Vibes', cursive; */
+    font-size: 50px;
+}
+
+#main{
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+    background-color: beige;
+    margin: 0 auto;
+    width: 800px;
+    padding: 10px;
+    border-radius: 64px 64px 64px 64px;
+    box-shadow: 16px 9px 12px 5px rgba(0,0,0,0.75);
+}
+
+#img-div{
+    text-align: center;
+    width: 90%;
+}
+
+#figure{
+    border-radius: 56px 56px 56px 56px;
+    /* box-shadow: 16px 9px 12px 5px rgba(0,0,0,0.75); */
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+figcaption{
+    margin-bottom: 30px;
+    font-size: 20px;
+    color: rgb(82, 83, 59);
+}
+
+#tribute-info p{
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+#ul-list{
+    list-style: square;
+}
+
+
+q{
+    display: block;
+    text-align: center;
+    font-style: italic;
+}
